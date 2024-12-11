@@ -1,0 +1,7 @@
+torch==2.5.1              # PyTorch library for the model
+torchvision==0.20.1       # Torchvision for image transformations
+librosa==0.10.2.post1     # For audio processing and spectrogram generation
+numpy==1.26.4             # Numerical operations
+matplotlib==3.9.2         # (Optional) If you plan to visualize results
+tqdm==4.64.4              # Progress bar for loops
+Pillow==10.3.0             # Required by torchvision.transforms
